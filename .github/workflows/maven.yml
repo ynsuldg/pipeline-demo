@@ -37,4 +37,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ynsuldg/pipeline-demo
+          tags: ynsuldg/pipeline-demo:1.0.0
